@@ -1,4 +1,7 @@
-# One Month Rails 
+One Month Rails
 
-this is the sample application for
-{=One Month Rails: Teach Yourself to code} 
+This is the sample application for 
+[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+
+by [JMattan Griffel](http://mattangriffel.com)
+Created by [Jeremy Norman](norman328@yahoo.com)
